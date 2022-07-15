@@ -7,4 +7,10 @@ print(menu[1])
 
 # menu.add("생선까스") 튜플은 add제공 x , 값 추가 불가하고 고정된 값만 사용가능
 
-name = "송우기" 
+# name = "송우기"
+# age = 24
+# bobby = "작곡"
+# print(name, age, hobby)
+
+(name, age, hobby) = ("송우기", 24, "작곡")
+print(name, age, hobby)
