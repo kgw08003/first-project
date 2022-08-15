@@ -18,3 +18,4 @@ for i in range(1,51):
         report_file.write("\n부서 :")
         report_file.write("\n이름 :")
         report_file.write("\n업무 요약 :")
+        
